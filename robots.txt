@@ -1,0 +1,3 @@
+# wki robots.txt
+User-agent: *
+Disallow: /
